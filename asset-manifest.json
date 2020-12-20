@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotoy/static/css/main.0c8aa280.chunk.css",
+    "main.js": "/robotoy/static/js/main.2eb41863.chunk.js",
+    "main.js.map": "/robotoy/static/js/main.2eb41863.chunk.js.map",
+    "runtime-main.js": "/robotoy/static/js/runtime-main.872ffe33.js",
+    "runtime-main.js.map": "/robotoy/static/js/runtime-main.872ffe33.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robotoy/static/css/2.31461e4f.chunk.css",
+    "static/js/2.ca33eafe.chunk.js": "/robotoy/static/js/2.ca33eafe.chunk.js",
+    "static/js/2.ca33eafe.chunk.js.map": "/robotoy/static/js/2.ca33eafe.chunk.js.map",
+    "static/js/3.f50acd29.chunk.js": "/robotoy/static/js/3.f50acd29.chunk.js",
+    "static/js/3.f50acd29.chunk.js.map": "/robotoy/static/js/3.f50acd29.chunk.js.map",
+    "index.html": "/robotoy/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robotoy/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0c8aa280.chunk.css.map": "/robotoy/static/css/main.0c8aa280.chunk.css.map",
+    "static/js/2.ca33eafe.chunk.js.LICENSE.txt": "/robotoy/static/js/2.ca33eafe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotoy/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872ffe33.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.ca33eafe.chunk.js",
+    "static/css/main.0c8aa280.chunk.css",
+    "static/js/main.2eb41863.chunk.js"
+  ]
+}
